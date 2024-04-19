@@ -7,14 +7,14 @@ export default function Home() {
            <div className="w-[90%] bg-white h-[60px] rounded-[5px] flex-row flex justify-between items-center pl-4 pr-4">
               <p className="text-[14px]">Amazing Exchange Admin</p>
               <div>
-                <a download='amazingexchangeadmin.apk' href="./amazingexchangeadmin.apk"  className="bg-gray-800 flex justify-center items-center font-bold w-[100px] h-[40px] rounded-[5px] cursor-pointer text-white text-[12px] ">Download</a>
+                <a download='amazingExchangeAdmin.apk' href="./amazingExchangeAdmin.apk"  className="bg-gray-800 flex justify-center items-center font-bold w-[100px] h-[40px] rounded-[5px] cursor-pointer text-white text-[12px] ">Download</a>
               </div>
            </div>
 
            <div className="w-[90%] bg-white h-[60px] rounded-[5px] flex-row flex justify-between items-center pl-4 pr-4">
               <p className="text-[14px]">Amazing Exchange App </p>
               <div>
-              <a download='amazingexchangeapp.apk' href="./amazingexchangeapp.apk"  className="bg-gray-800 flex justify-center items-center font-bold w-[100px] h-[40px] rounded-[5px] cursor-pointer text-white text-[12px] ">Download</a>
+              <a download='amazingExchange.apk' href="./amazingExchange.apk"  className="bg-gray-800 flex justify-center items-center font-bold w-[100px] h-[40px] rounded-[5px] cursor-pointer text-white text-[12px] ">Download</a>
               </div>
            </div>
         </div>
